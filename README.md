@@ -32,7 +32,7 @@ An interactive Power BI dashboard analysing electric vehicle specifications, bra
 6. **Yearly Trend:** The displayed EV count peaks at 70 in 2025 and is 62 in 2026.
 
 ## Dashboard Preview
-![EV Cars Dashboard](../Electric%20Vehicle%20Analytics%20.PNG.png)
+![EV Cars Dashboard](dashboard-preview.png)
 
 ## Project Files
 - `Electric Vehicle Analytics.pbix` — Power BI dashboard file.

@@ -38,7 +38,7 @@ EV Count by Year: The displayed vehicle count rises from 30 in 2020 to a peak of
 
 ## 🖥️ Dashboard Preview
 
-![EV Cars Dashboard](Electric%20Vehicle%20Analytics%20.PNG)
+![EV Cars Dashboard](Electric%20Vehicle%20Analytics%20.PNG.png)
 
 ## Files
 - `EV-Cars-Dashboard.pbix` : Power BI report file

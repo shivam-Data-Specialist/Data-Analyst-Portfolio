@@ -35,8 +35,10 @@ Charging Speed: Porsche has the highest average charging speed among the brands 
 
 EV Count by Year: The displayed vehicle count rises from 30 in 2020 to a peak of 70 in 2025, before declining to 62 in 2026.
 
-## Dashboard Preview
-![EV Cars Dashboard](dashboard-preview.png)
+
+## 🖥️ Dashboard Preview
+
+![EV Cars Dashboard](Electric%20Vehicle%20Analytics%20.PNG)
 
 ## Files
 - `EV-Cars-Dashboard.pbix` : Power BI report file

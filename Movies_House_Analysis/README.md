@@ -67,9 +67,7 @@ Users can filter dashboard insights by:
 
 Add your dashboard screenshot to the repository and update the image path below:
 
-```markdown
-![Movies House Analysis Dashboard](Movies_House_Analysis.png)
-```
+![Movies Dashboard](Movies_House_Analysis.png)
 
 ## 💡 Skills Demonstrated
 

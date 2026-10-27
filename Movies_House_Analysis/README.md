@@ -2,7 +2,8 @@
 
 ## 📊 Dashboard Preview
 
-![Movie Analytics Dashboard](./Movies_House_Analysis%281%29.png)
+![Movie Analytics Dashboard](https://raw.githubusercontent.com/shivam-Data-Specialist/Data-Analyst-Portfolio/main/Movies_House_Analysis/Movies_House_Analysis.png)
+
 
 ## 📌 Project Overview
 
